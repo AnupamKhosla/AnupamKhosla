@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AnupamKhosla from Melbourne Australia. I'm Indian Australian dual citizen, so can work through both contries agencies.
+- 👋 Hi, I’m u/AnupamKhosla from Melbourne Australia. I'm an Indian Australian dual citizen, so can work through both countries' agencies.
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently practising in Back end technologies
-- 💞️ I’m looking to collaborate with backend devs as a font end dev
+- 🌱 I’m currently practicing in Back end technologies
+- 💞️ I’m looking to collaborate with backend developers as a font end developer
 - 📫 Contact me through email anupamkhosla1993@gmail.com or linkdin https://www.linkedin.com/in/anupamkhosla/
 
-Most interseting work by me:    
+Most interesting work by me:    
 musicsheets.in   
 liveradio.space (mirror: anupamkhosla.github.io/reactMusic)    
 crimewiki.in      
